@@ -1,0 +1,13 @@
+*.ipynb
+
+data/
+
+.DS_Store
+configs/.DS_Store
+core/.DS_Store
+data/.DS_Store
+imgs/.DS_Store
+
+core/datasets/.DS_Store
+core/models/.DS_Store
+core/utils/.DS_Store
