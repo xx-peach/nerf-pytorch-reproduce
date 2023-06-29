@@ -1,4 +1,4 @@
-# nerf-pytorch-concise
+# nerf-pytorch-reproduce
 
 ## A PyTorch Re-Implementation
 
